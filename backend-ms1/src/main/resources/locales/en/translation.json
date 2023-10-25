@@ -1,0 +1,91 @@
+{
+    "from-to": "Elements from {first} to {last} (total {totalRecords})",
+    "new" : "New",
+    "search": "Search",
+    "export": "Export",
+    "validate": "Validate",
+    "search": "Seach...",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "next": "Next",
+    "yes": "Yes",
+    "no": "No",
+    "actions": "Actions",
+    "confirm": "Confirm",
+    "creation": "Creation",
+    "list": "List",
+
+
+    "siteImage":{
+        "site": "Site",
+        "sitePlaceHolder": "Select a Site",
+        "sitePlaceHolderFilter": "Search by Site",
+        "fileName": "File name",
+        "filePath": "File path",
+        "description": "Description",
+        "siteImage": "Site image",
+        "tabPan": "Site image",
+        "header": "Liste des site images",
+        "deleteSiteImageConfirmationMessage": "Are you sure you want to delete site image",
+        "deleteSiteImagesConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "modeAcces":{
+        "libelle": "Libelle",
+        "code": "Code",
+        "modeAcces": "Mode acces",
+        "tabPan": "Mode acces",
+        "header": "Liste des mode acces",
+        "deleteModeAccesConfirmationMessage": "Are you sure you want to delete mode acces",
+        "deleteModeAccessConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "site":{
+        "g2r": "G2r",
+        "nom": "Nom",
+        "technicien": "Technicien",
+        "technicienPlaceHolder": "Select a Technicien",
+        "technicienPlaceHolderFilter": "Search by Technicien",
+        "commentaire": "Commentaire",
+        "modeAcces": "Mode acces",
+        "modeAccesPlaceHolder": "Select a Mode acces",
+        "modeAccesPlaceHolderFilter": "Search by Mode acces",
+        "latitude": "Latitude",
+        "latitudeMin": "Latitude Min",
+        "latitudeMax": "Latitude Max",
+        "longitude": "Longitude",
+        "longitudeMin": "Longitude Min",
+        "longitudeMax": "Longitude Max",
+        "siteImages": "Site images",
+        "site": "Site",
+        "tabPan": "Site",
+        "header": "Liste des sites",
+        "deleteSiteConfirmationMessage": "Are you sure you want to delete site",
+        "deleteSitesConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "technicien":{
+        "nom": "Nom",
+        "prenom": "Prenom",
+        "credentialsNonExpired": "Credentials non expired",
+        "enabled": "Enabled",
+        "accountNonExpired": "Account non expired",
+        "accountNonLocked": "Account non locked",
+        "passwordChanged": "Password changed",
+        "username": "Username",
+        "password": "Password",
+        "technicien": "Technicien",
+        "tabPan": "Technicien",
+        "header": "Liste des techniciens",
+        "deleteTechnicienConfirmationMessage": "Are you sure you want to delete technicien",
+        "deleteTechniciensConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+"appName": "GED"
+}
+
+

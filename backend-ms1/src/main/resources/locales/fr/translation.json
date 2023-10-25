@@ -1,0 +1,95 @@
+{
+    "from-to": "Elements from {first} to {last} (total {totalRecords})",
+    "new" : "Nouveau",
+    "search": "Chercher",
+    "export": "Exporter",
+    "validate": "Validater",
+    "search": "Chercher...",
+    "delete": "Supprimer",
+    "cancel": "Annuler",
+    "save": "Sauvgarder",
+    "next": "Suivant",
+    "yes": "Oui",
+    "no": "Non",
+    "actions": "Actions",
+    "confirm": "Confirmer",
+    "creation": "Creation",
+    "list": "Liste",
+
+
+    "siteImage":{
+        "site": "Site",
+        "sitePlaceHolder": "Select a Site",
+        "sitePlaceHolderFilter": "Search by Site",
+        "fileName": "File name",
+        "filePath": "File path",
+        "description": "Description",
+        "siteImage": "Site image",
+        "tabPan": "Site image",
+        "header": "Liste des site images",
+        "deleteSiteImageConfirmationMessage": "Voulez vous vraiment supprimer site image",
+        "deleteSiteImagesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "modeAcces":{
+        "libelle": "Libelle",
+        "code": "Code",
+        "modeAcces": "Mode acces",
+        "tabPan": "Mode acces",
+        "header": "Liste des mode acces",
+        "deleteModeAccesConfirmationMessage": "Voulez vous vraiment supprimer mode acces",
+        "deleteModeAccessConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "site":{
+        "g2r": "G2r",
+        "nom": "Nom",
+        "technicien": "Technicien",
+        "technicienPlaceHolder": "Select a Technicien",
+        "technicienPlaceHolderFilter": "Search by Technicien",
+        "commentaire": "Commentaire",
+        "modeAcces": "Mode acces",
+        "modeAccesPlaceHolder": "Select a Mode acces",
+        "modeAccesPlaceHolderFilter": "Search by Mode acces",
+        "latitude": "Latitude",
+        "latitudeMin": "Latitude Min",
+        "latitudeMax": "Latitude Max",
+        "longitude": "Longitude",
+        "longitudeMin": "Longitude Min",
+        "longitudeMax": "Longitude Max",
+        "siteImages": "Site images",
+        "site": "Site",
+        "tabPan": "Site",
+        "header": "Liste des sites",
+        "deleteSiteConfirmationMessage": "Voulez vous vraiment supprimer site",
+        "deleteSitesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "technicien":{
+        "nom": "Nom",
+        "prenom": "Prenom",
+        "credentialsNonExpired": "Credentials non expired",
+        "enabled": "Enabled",
+        "accountNonExpired": "Account non expired",
+        "accountNonLocked": "Account non locked",
+        "passwordChanged": "Password changed",
+        "username": "Username",
+        "password": "Password",
+        "technicien": "Technicien",
+        "tabPan": "Technicien",
+        "header": "Liste des techniciens",
+        "deleteTechnicienConfirmationMessage": "Voulez vous vraiment supprimer technicien",
+        "deleteTechniciensConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+"appName": "GED"
+}
+
+
